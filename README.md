@@ -1,3 +1,3 @@
 # Teste de conflitos
 
-Aluno: Marcos D.
+Aluno: Dylhermando Diniz
