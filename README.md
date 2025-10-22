@@ -1,3 +1,3 @@
 # Teste de conflitos
 
-Aluno: Thiago Medeiros
+Aluno: Dylhermando Diniz
