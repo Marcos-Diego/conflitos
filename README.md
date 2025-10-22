@@ -1,3 +1,3 @@
 # Teste de conflitos
 
-Aluno:
+Aluno: Thiago Medeiros
