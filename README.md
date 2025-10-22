@@ -1,2 +1,3 @@
-# conflitos
-Testes para aula sobre conflitos no github.
+# Teste de conflitos
+
+Aluno:
